@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\repos\opengl-practice\OpenGLPractice\source\main.cpp(118,28): warning C4101: 'ebo': unreferenced local variable
+  OpenGLPractice.vcxproj -> C:\repos\opengl-practice\OpenGLPractice\bin\x64\Debug\OpenGLPractice.exe
